@@ -12,8 +12,8 @@ This repository contains a simple transformer-based model for gender classificat
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/simple-face-gender-classifier.git
-cd simple-face-gender-classifier
+git clone https://github.com/jayabrotabanerjee/Simple-Face-Gender-Classifier.git
+cd Simple-Face-Gender-Classifier
 pip install -r requirements.txt
 ```
 

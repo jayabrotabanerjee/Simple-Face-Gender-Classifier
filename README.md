@@ -95,12 +95,6 @@ The project implements a custom transformer architecture designed specifically f
 4. **Transformer Encoder**: Processes embeddings through multi-head self-attention layers
 5. **Classification Head**: Makes final gender predictions using a fully connected layer
 
-## Performance
-On benchmark datasets, the model achieves:
-- Accuracy: ~94% on balanced test sets
-- Inference speed: 15ms per image on GPU, 80ms on CPU
-- Model size: 25MB
-
 ## Dependencies
 - torch>=1.9.0
 - torchvision>=0.10.0

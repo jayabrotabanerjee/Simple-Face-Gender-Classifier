@@ -6,7 +6,6 @@ This repository contains a simple transformer-based model for gender classificat
 | Jayabrota Banerjee| 2        | 12022002018078      |
 | Aritra Ghosal     | 23       | 12022002018036      |
 
-This repository contains a simple transformer-based model for gender classification from facial images. The model uses a streamlined transformer architecture to detect and classify faces by gender with high accuracy.
 ![prediction](pics/prediction%20of%20male.png)
 ![prediction](pics/prediction%20of%20female.png)
 ## Features

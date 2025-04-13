@@ -1,5 +1,5 @@
 # GenAI & DL Project for 6th Semester CSBS
-This repository contains a simple transformer-based model for gender classification from facial images. The model uses a streamlined transformer architecture to detect and classify faces by gender.
+Simple transformer-based model for gender classification from facial images. 
 ## Authors : 
 | Name              | Roll No. | Enrollment No.     |
 |-------------------|----------|---------------------|

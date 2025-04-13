@@ -68,11 +68,6 @@ python evaluate.py --model_path models/gender_classifier.pth --test_dir data/tes
 python predict.py --image_path path/to/your/image.jpg --model_path models/gender_classifier.pth
 ```
 
-### 5. Launch the GUI application
-```bash
-python gui.py --model_path models/gender_classifier.pth
-```
-
 ## Model Architecture
 The project implements a custom transformer architecture designed specifically for gender classification:
 

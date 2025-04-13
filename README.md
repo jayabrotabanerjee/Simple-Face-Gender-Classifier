@@ -1,8 +1,11 @@
-# GenAI and DL Project for 6th Semester CSBS
-This repository contains a simple transformer-based model for gender classification from facial images. The model uses a streamlined transformer architecture to detect and classify faces by gender with high accuracy.
+# GenAI & DL Project for 6th Semester CSBS
+This repository contains a simple transformer-based model for gender classification from facial images. The model uses a streamlined transformer architecture to detect and classify faces by gender.
 ## Authors : 
-Jayabrota Banerjee Roll 2 Enrollment no : 12022002018078
-Aritra Ghosal Roll 23 Enrollment 12022002018036
+| Name              | Roll No. | Enrollment No.     |
+|-------------------|----------|---------------------|
+| Jayabrota Banerjee| 2        | 12022002018078      |
+| Aritra Ghosal     | 23       | 12022002018036      |
+
 This repository contains a simple transformer-based model for gender classification from facial images. The model uses a streamlined transformer architecture to detect and classify faces by gender with high accuracy.
 ![prediction](pics/prediction%20of%20male.png)
 ![prediction](pics/prediction%20of%20female.png)

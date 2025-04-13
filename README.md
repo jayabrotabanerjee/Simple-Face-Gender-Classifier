@@ -1,5 +1,5 @@
 # GenAI & DL Project for 6th Semester CSBS
-Simple transformer-based model for gender classification from facial images. 
+Simple vision transformer for gender classification from facial images. 
 ## Authors : 
 | Name              | Roll No. | Enrollment No.     |
 |-------------------|----------|---------------------|

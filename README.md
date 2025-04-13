@@ -1,4 +1,4 @@
-# GenAI & DL Project for 6th Semester CSBS
+# GenAI & DL (PCCS681) Project for 6th Semester CSBS 
 Simple vision transformer for gender classification from facial images. 
 ## Authors : 
 | Name              | Roll No. | Enrollment No.     |

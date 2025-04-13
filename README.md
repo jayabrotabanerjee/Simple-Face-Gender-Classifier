@@ -54,6 +54,7 @@ Additional training options:
 ```bash
 python evaluate.py --model_path models/gender_classifier.pth --test_dir data/test/
 ```
+![confusion matrix](pics/confusion%20matrix.png)
 
 ### 4. Run inference on new images
 ```bash

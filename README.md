@@ -56,6 +56,7 @@ python evaluate.py --model_path models/gender_classifier.pth --test_dir data/tes
 ```
 ![confusion matrix](pics/confusion%20matrix.png)
 
+![Training and Validation loss and Validation Accuracy](pics/loss%20and%20accuracy%20curve%20at%20epoch%2014.png)
 ### 4. Run inference on new images
 ```bash
 python predict.py --image_path path/to/your/image.jpg --model_path models/gender_classifier.pth

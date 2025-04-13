@@ -73,27 +73,6 @@ python predict.py --image_path path/to/your/image.jpg --model_path models/gender
 python gui.py --model_path models/gender_classifier.pth
 ```
 
-## Project Structure
-```
-.
-├── data/                      # Dataset directory
-├── models/                    # Saved models directory
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py         # Dataset and data loader utilities
-│   ├── model.py               # Transformer model architecture
-│   ├── face_detector.py       # Face detection utilities
-│   ├── train_utils.py         # Training helper functions
-│   ├── evaluation.py          # Evaluation metrics and tools
-│   └── visualization.py       # Visualization utilities
-├── train.py                   # Training script
-├── evaluate.py                # Evaluation script
-├── predict.py                 # Inference script
-├── gui.py                     # Interactive GUI application
-├── requirements.txt           # Dependencies
-└── README.md                  # Documentation
-```
-
 ## Model Architecture
 The project implements a custom transformer architecture designed specifically for gender classification:
 

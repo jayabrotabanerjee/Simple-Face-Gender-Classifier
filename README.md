@@ -77,7 +77,7 @@ The project implements a custom transformer architecture designed specifically f
 5. **Classification Head**: Makes final gender predictions using a fully connected layer
 
    ## Project Report:
-   [Project Report](Project%20Report/CSBS(2%2C23).pdf)
+   [Project Report](Project%20Report/CSBS%20(2%2C23).pdf) 
 
 ## Dependencies
 - torch>=1.9.0

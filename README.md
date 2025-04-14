@@ -12,7 +12,6 @@ Simple vision transformer for gender classification from facial images.
 - Face detection using OpenCV's pre-trained Haar Cascade classifier
 - Custom transformer architecture for gender classification
 - Comprehensive data preprocessing pipeline
-- Interactive GUI for real-time predictions
 - Detailed performance metrics and visualization tools
 - Support for both CPU and GPU acceleration
 

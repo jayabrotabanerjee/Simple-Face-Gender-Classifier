@@ -76,9 +76,6 @@ The project implements a custom transformer architecture designed specifically f
 4. **Transformer Encoder**: Processes embeddings through multi-head self-attention layers
 5. **Classification Head**: Makes final gender predictions using a fully connected layer
 
-   ## Project Report:
-   [Project Report](Project%20Report/CSBS%20(2%2C23).pdf) 
-
 ## Dependencies
 - torch>=1.9.0
 - torchvision>=0.10.0
@@ -96,3 +93,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## References:
+[Project Report](Project%20Report/CSBS%20(2%2C23).pdf) 

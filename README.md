@@ -76,7 +76,7 @@ The project implements a custom transformer architecture designed specifically f
 4. **Transformer Encoder**: Processes embeddings through multi-head self-attention layers
 5. **Classification Head**: Makes final gender predictions using a fully connected layer
 
-   ### Project Report:
+   ## Project Report:
    [Project Report](Project%20Report/CSBS(2,23).pdf)
 
 ## Dependencies
